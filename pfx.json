@@ -8,6 +8,10 @@
         }
     },
     "bin": [
-        "bin\\pfx.exe"
+        "bin\\pfx.exe",
+        "bin\\clrcompression.dll",
+        "bin\\clrjit.dll",
+        "bin\\mscordaccore.dll",
+        "bin\\pfx.pdb"
     ]
 }
