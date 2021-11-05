@@ -8,6 +8,6 @@
         }
     },
     "bin": [
-        "bin\\pfx.exe",
+        "bin\\pfx.exe"
     ]
 }
