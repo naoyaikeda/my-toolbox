@@ -1,10 +1,10 @@
 {
     "homepage": "https://circle.grayrecord.com/",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "license": " Copyright (c) 2021 Naoya Ikeda",
     "architecture": {
         "64bit": {
-            "url": "https://circle.grayrecord.com/apps/pfx-0.0.0-win10x64-bin.zip"
+            "url": "https://circle.grayrecord.com/apps/pfx-0.0.1-win10x64-bin.zip"
         }
     },
     "bin": [
