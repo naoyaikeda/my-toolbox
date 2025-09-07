@@ -10,4 +10,7 @@
     "bin": [
         "rsssummarizer.exe"
     ]
+    "persist": [
+        "rsssummarizer.env"
+    ]
 }
