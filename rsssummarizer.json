@@ -1,16 +1,14 @@
 {
     "homepage": "https://circle.grayrecord.com/",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": " Copyright (c) 2025 Naoya Ikeda",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/naoyaikeda/rsssummarizer/releases/download/Rel-0.1.1/rsssummarizer-0.1.1.zip"
+            "url": "https://github.com/naoyaikeda/rsssummarizer/releases/download/Rel-0.1.2/rsssummarizer-0.1.2.zip"
         }
     },
     "bin": [
         "rsssummarizer.exe"
-    ]
-    "persist": [
-        "rsssummarizer.env"
-    ]
+    ],
+    "persist": "rsssummarizer.env"
 }
