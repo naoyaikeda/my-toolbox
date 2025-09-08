@@ -1,0 +1,13 @@
+{
+    "homepage": "https://circle.grayrecord.com/",
+    "version": "20250905",
+    "license": "Copyright (c) 2020 Aya Igarashi - @Ladicle",
+    "architecture": {
+        "64bit": {
+            "url": "https://circle.grayrecord.com/apps/tcardgen-20250905.zip"
+        }
+    },
+    "bin": [
+        "tcardgen.exe"
+    ]
+}
